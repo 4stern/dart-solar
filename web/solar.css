@@ -1,0 +1,24 @@
+body, html {
+	background:#000;
+	color:#fff;
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+}
+#container{
+	position: absolute;
+	top:30px;
+	left:0;
+	right: 0;
+	bottom: 0;
+}
+#area{
+	/*border:none;
+	height:100%; 
+	width:100%;*/
+	position: absolute;
+	top:30px;
+	left:0;
+	right: 0;
+	bottom: 0;
+}
